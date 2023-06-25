@@ -1,4 +1,4 @@
-class Solution {
+class qs_2 {
      public int firstUniqChar(String s) {
         int ans = Integer.MAX_VALUE;
         for(char c='a'; c<='z';c++){
